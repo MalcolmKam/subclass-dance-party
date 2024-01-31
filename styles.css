@@ -25,3 +25,15 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+.colorfulDancer{
+  border:10px solid;
+  border-radius:10px;
+  position:absolute;
+}
+.rocketDancer{
+  position:absolute;
+  border:none;
+}
+body{
+  background-color: black;
+}
